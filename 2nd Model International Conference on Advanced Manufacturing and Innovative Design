@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2nd Model International Conference on Advanced Manufacturing and Innovative Design</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        .container { width: 80%; margin: 0 auto; }
+        header, footer { background: #333; color: #fff; padding: 1em 0; text-align: center; }
+        nav { background: #f4f4f4; padding: 1em; text-align: center; }
+        nav a { margin: 0 1em; color: #333; text-decoration: none; }
+        section { margin: 2em 0; }
+        h1, h2, h3 { color: #333; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>2nd Model International Conference on Advanced Manufacturing and Innovative Design</h1>
+    </header>
+    <nav>
+        <a href="#home">首页</a>
+        <a href="#schedule">日程安排</a>
+        <a href="#keynotes">主题演讲</a>
+        <a href="#papers">论文摘要</a>
+        <a href="#guests">参会嘉宾</a>
+        <a href="#contact">联系我们</a>
+    </nav>
+    <div class="container">
+        <section id="home">
+            <h2>大会介绍</h2>
+            <p>欢迎来到第二届先进制造与创新设计国际会议。此次会议旨在提供一个交流平台，让专家、学者和学生分享他们的研究成果和经验。</p>
+            <h3>主办单位和支持单位</h3>
+            <p>宁夏大学机械工程学院, 2019 级机械工程(卓越工程师)1 班, 共青团宁夏大学机械工程学院委员会, 宁夏大学机械工程学院易班工作站, 中国 银川</p>
+            <h3>会议日期和地点</h3>
+            <p>2021年12月19日, 明远楼 512</p>
+        </section>
+        <section id="schedule">
+            <h2>日程安排</h2>
+            <p>详细的会议日程如下：</p>
+            <!-- 这里将插入详细的会议日程 -->
+        </section>
+        <section id="keynotes">
+            <h2>主题演讲</h2>
+            <!-- 这里将插入主题演讲摘要和演讲者简介 -->
+        </section>
+        <section id="papers">
+            <h2>论文摘要</h2>
+            <!-- 这里将插入各个论文的摘要和作者信息 -->
+        </section>
+        <section id="guests">
+            <h2>参会嘉宾</h2>
+            <!-- 这里将插入参会嘉宾的详细介绍 -->
+        </section>
+        <section id="contact">
+            <h2>联系我们</h2>
+            <p>如需更多信息，请联系：example@example.com</p>
+        </section>
+        <footer>
+            <p>制作人：王宗禹</p>
+        </footer>
+    </div>
+</body>
+</html>
